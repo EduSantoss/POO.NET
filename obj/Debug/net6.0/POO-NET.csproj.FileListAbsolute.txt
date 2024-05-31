@@ -1,0 +1,15 @@
+C:\Users\Laura\Desktop\POO-NET\bin\Debug\net6.0\POO-NET.exe
+C:\Users\Laura\Desktop\POO-NET\bin\Debug\net6.0\POO-NET.deps.json
+C:\Users\Laura\Desktop\POO-NET\bin\Debug\net6.0\POO-NET.runtimeconfig.json
+C:\Users\Laura\Desktop\POO-NET\bin\Debug\net6.0\POO-NET.dll
+C:\Users\Laura\Desktop\POO-NET\bin\Debug\net6.0\POO-NET.pdb
+C:\Users\Laura\Desktop\POO-NET\obj\Debug\net6.0\POO-NET.csproj.AssemblyReference.cache
+C:\Users\Laura\Desktop\POO-NET\obj\Debug\net6.0\POO-NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura\Desktop\POO-NET\obj\Debug\net6.0\POO-NET.AssemblyInfoInputs.cache
+C:\Users\Laura\Desktop\POO-NET\obj\Debug\net6.0\POO-NET.AssemblyInfo.cs
+C:\Users\Laura\Desktop\POO-NET\obj\Debug\net6.0\POO-NET.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Desktop\POO-NET\obj\Debug\net6.0\POO-NET.dll
+C:\Users\Laura\Desktop\POO-NET\obj\Debug\net6.0\refint\POO-NET.dll
+C:\Users\Laura\Desktop\POO-NET\obj\Debug\net6.0\POO-NET.pdb
+C:\Users\Laura\Desktop\POO-NET\obj\Debug\net6.0\POO-NET.genruntimeconfig.cache
+C:\Users\Laura\Desktop\POO-NET\obj\Debug\net6.0\ref\POO-NET.dll
