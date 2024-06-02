@@ -1,7 +1,8 @@
-<h1>DIO | Resumo .NET e C# - Modulo 2</h1>
+<h1>DIO | Resumo POO com .NET e C# - Modulo 3</h1>
 
--> Manipulando dados e objetos _NET
-[Digital Innovation One](https://www.dio.me/en).
+-> Manipulando dados e objetos _NET.
+<br>
+[Digital Innovation One](https://www.dio.me/en)
 
 ## 📚 Documentação 
 - [Documentação .NET](https://git-scm.com/doc)
